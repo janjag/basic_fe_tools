@@ -1,5 +1,5 @@
 {
-  "name": "_tools",
+  "name": "basic_fe_tools",
   "version": "1.0.0",
   "description": "1.0.0",
   "main": "index.html",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "humanistcancode",
-  "homepage": "",
+  "homepage": "https://github.com/janjag/basic_fe_tools",
   "devDependencies": {
     "autoprefixer": "^9.4.2",
     "browser-sync": "^2.26.3",
